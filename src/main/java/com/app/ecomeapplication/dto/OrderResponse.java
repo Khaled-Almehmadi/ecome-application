@@ -1,6 +1,5 @@
 package com.app.ecomeapplication.dto;
 
-import com.app.ecomeapplication.model.OrderItem;
 import com.app.ecomeapplication.model.OrderStatus;
 import lombok.Data;
 

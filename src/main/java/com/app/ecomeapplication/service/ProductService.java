@@ -5,7 +5,6 @@ import com.app.ecomeapplication.dto.ProductResponse;
 import com.app.ecomeapplication.model.Product;
 import com.app.ecomeapplication.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

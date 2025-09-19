@@ -1,6 +1,5 @@
 package com.app.ecomeapplication.dto;
 
-import com.app.ecomeapplication.model.UserRole;
 import lombok.Data;
 
 

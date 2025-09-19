@@ -1,14 +1,11 @@
 package com.app.ecomeapplication.controller;
 
 import com.app.ecomeapplication.dto.OrderResponse;
-import com.app.ecomeapplication.model.Order;
 import com.app.ecomeapplication.service.OrderService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-
-import java.util.Optional;
 
 @RestController
 @RequiredArgsConstructor

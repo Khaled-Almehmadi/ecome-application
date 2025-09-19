@@ -2,7 +2,6 @@ package com.app.ecomeapplication.controller;
 
 import com.app.ecomeapplication.dto.ProductRequest;
 import com.app.ecomeapplication.dto.ProductResponse;
-import com.app.ecomeapplication.model.Product;
 import com.app.ecomeapplication.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
